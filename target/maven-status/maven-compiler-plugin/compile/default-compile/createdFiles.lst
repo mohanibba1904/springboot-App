@@ -1,0 +1,5 @@
+effigo\springbootdemo\services\StudentService.class
+effigo\springbootdemo\SpringbootDemoApplication.class
+effigo\springbootdemo\controller\StudentController.class
+effigo\springbootdemo\repository\StudentRepository.class
+effigo\springbootdemo\entity\Student.class
